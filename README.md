@@ -1,2 +1,1 @@
-# WebProgrammingProject
- HTML. CSS, JS built online shopping website
+https://hellonyac.github.io/HappyPaw/
